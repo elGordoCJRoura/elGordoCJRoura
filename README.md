@@ -3,16 +3,16 @@
 <p align="center">
   <a href="https://www.youtube.com/@elGordoRoura">
     <img src="https://img.shields.io/badge/YouTube-elGordoRoura-red?logo=youtube&logoColor=white&style=flat-square" alt="YouTube">
-  </a> •
-  
+  </a>
+  •
   <a href="https://www.linkedin.com/in/cjroura/">
     <img src="https://img.shields.io/badge/LinkedIn-cjroura-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a> •
-  
+  </a>
+  •
   <a href="https://www.christopherroura.co/">
     <img src="https://img.shields.io/badge/Website-Christopher%20Roura-brightgreen?logo=google-chrome&logoColor=white&style=flat-square" alt="Website">
-  </a> •
-  
+  </a>
+  •
   <a href="https://www.buymeacoffee.com/elGordoRoura/">
     <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=white&style=flat-square" alt="BuyMeACoffee">
   </a>
@@ -69,5 +69,5 @@ I’d love to hear from you! Whether you’re learning Swift, brainstorming your
 
 ### 📈 Fun Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roura-Industries&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roura-Industries&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elGordoCJRoura&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoCJRoura&layout=compact&theme=radical)  
