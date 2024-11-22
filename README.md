@@ -69,5 +69,5 @@ I’d love to hear from you! Whether you’re learning Swift, brainstorming your
 
 ### 📈 Fun Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elGordoRoura&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoRoura&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elGordoCJRoura&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoCJRoura&layout=compact&theme=radical)  
