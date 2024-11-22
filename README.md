@@ -1,18 +1,18 @@
 # Welcome to elGordoRoura's Corner! 👋
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 1em;">
   <a href="https://www.youtube.com/@elGordoRoura">
     <img src="https://img.shields.io/badge/YouTube-elGordoRoura-red?logo=youtube&logoColor=white&style=flat-square" alt="YouTube">
   </a>
-  •
+  <span>•</span>
   <a href="https://www.linkedin.com/in/cjroura/">
     <img src="https://img.shields.io/badge/LinkedIn-cjroura-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
   </a>
-  •
+  <span>•</span>
   <a href="https://www.christopherroura.co/">
     <img src="https://img.shields.io/badge/Website-Christopher%20Roura-brightgreen?logo=google-chrome&logoColor=white&style=flat-square" alt="Website">
   </a>
-  •
+  <span>•</span>
   <a href="https://www.buymeacoffee.com/elGordoRoura/">
     <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=white&style=flat-square" alt="BuyMeACoffee">
   </a>
