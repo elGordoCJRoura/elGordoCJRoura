@@ -101,9 +101,9 @@ I’d love to hear from you! Whether you’re learning Swift, brainstorming your
 ### 📈 Fun Stats
 
 #### **GitHub Stats**
-I’ve had the pleasure of working on projects across two GitHub accounts: my legacy account **elGordo-Roura** and my current business-focused account **elGordoCJRoura**. 
+I’ve had the pleasure of working on projects across two GitHub accounts: my legacy account **cjroura** and my current business-focused account **elGordoCJRoura**. 
 
-- **elGordo-Roura:** My long-running GitHub account showcasing years of personal growth and experimentation. 
+- **cjroura:** My long-running GitHub account showcasing years of personal growth and experimentation. 
 - **elGordoCJRoura:** My professional account, representing my focused work and open-source contributions.
 
 Here’s a snapshot of my commit history and contributions:
@@ -111,7 +111,7 @@ Here’s a snapshot of my commit history and contributions:
 **elGordoCJRoura:**
 ![Commit History Graph](https://ghchart.rshah.org/elGordoCJRoura)
 
-**elGordo-Roura:**
-![Commit History Graph](https://ghchart.rshah.org/elGordo-Roura)
+**cjroura:**
+![Commit History Graph](https://ghchart.rshah.org/cjroura)
 
 These graphs represent the timeline of my work—commits, pull requests, and overall activity—showing how I’ve grown as a developer.
