@@ -17,130 +17,101 @@
 
 ---
 
-## 👨‍💻 About Me  
-Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a passionate **iOS Developer**, Swift teacher, and all-around coding enthusiast who loves to simplify complex concepts into fun, engaging lessons. My goal? To empower developers of all levels to build apps with confidence.
+## 👨‍💻 About Me
+Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a self-taught, passionate developer who thrives on creating and teaching. My coding journey started back in 2018 at the Apple Developer Academy in Naples, Italy, where I fell in love with building apps that make a difference. 
 
-- 🔥 **Creator** of **RouraDB**, an upcoming YouTube series teaching SwiftUI, app architecture, and reusable components. *(In the works!)*  
-- 🎥 Sharing **Swift tutorials and tips** on [YouTube @elGordoRoura](https://www.youtube.com/@elGordoRoura). *(Launching soon!)*  
-- 🛠 Building **tools and apps** that make coding in Swift easier and more enjoyable.  
+Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, and even instructor. When I’m not working on my apps or teaching the next generation of developers, I’m geeking out over cars, hanging out with my dog Nicky, or diving into some good tech podcasts. I love staying curious and sharing what I learn with others.
 
 ---
 
-## 🚀 What You’ll Find Here  
+## 🚀 Highlighted Projects
 
-- **Tutorials**: Step-by-step Swift and SwiftUI guides to help you level up.  
-- **Code Snippets**: Reusable components, extensions, and helpers to make your development faster.  
-- **Projects**: Behind-the-scenes looks at my current apps and open-source contributions.  
+### 🌟 **Luminae**
+- A social media app inspired by X (Twitter), designed with SwiftUI and powered by Firebase.
+- Features include dynamic feeds, user profiles, and real-time analytics.
 
----
+### 📝 **Task Swiftly**
+- A productivity app blending reminders, notes, and task management for iOS.
+- Optimized for SwiftUI with seamless integration into the iOS ecosystem.
 
-## 💡 Current Projects  
+### 🍴 **RecipeKit**
+- A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.
+- Development Roadmap:
+  - MVP: Recipe database, user accounts, and basic filtering.
+  - Future: Multi-language support, meal planning, and personalized recommendations.
 
-### 🌟 **Luminae**  
-- A social media app inspired by TikTok, designed with SwiftUI and powered by Firebase.  
-- Features include dynamic video feeds, user profiles, and real-time analytics.  
-
-### 📝 **Task Swiftly**  
-- A productivity app blending reminders, notes, and task management for iOS.  
-- Optimized for SwiftUI with seamless integration into the iOS ecosystem.  
-
-### 🍴 **RecipeKit**  
-- Your guide to all things food! Recipe discovery, user-generated content, and dietary filtering with **SwiftUI** and **CloudKit**.  
-- Development Roadmap:  
-  - MVP: User accounts, recipe database, basic filtering.  
-  - Future: Multi-language support, meal planning, and personalized recommendations.  
+### 🎙 **ChirpCast**
+- A podcast discovery app leveraging modern APIs and intuitive interfaces.
+- Highlights user-friendly search, curated lists, and a cross-platform experience.
 
 ---
 
 ## 📜 My Versatility & Experiences
 
-### Technical Skills and Experience  
+### Professional Experience
+- **Favor Delivery (2021–2023):** Spearheaded key projects like the address screen redesign and rebuilt the credit card scanning feature with Apple’s Vision framework.
+- **Roura and Melamed (2011–Present):** Facilitated IT support and at-home work solutions.
+- **Veterinary Emergency Group:** Provided IT support to ensure seamless technological operations.
+- **Apple Developer Academy Enterprise Track (2018–2019):** Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
+- **Kodeco Instructor (2023–Present):** Taught iOS twice, VisionOS, and slated to lead additional iOS and Apple Intelligence bootcamps.
 
-#### Legacy Work  
-I have worked extensively with UIKit. It was what I first learned in 2018 at the Apple Developer Academy, and I continued using it through my work at Favor. I learned about traditional MVC patterns with UIKit and have broadened my skillset to update UIKit code and adopt more modern approaches.
+### Technical Skills and Experience
+- **UIKit and Legacy Work:** Extensive experience with UIKit, starting in 2018, with expertise in traditional MVC patterns and transitioning to modern frameworks like SwiftUI.
+- **Programming Languages:** Proficient in Swift, with foundational knowledge of Java and Python.
+- **Cross-Platform Development:** Developing apps for macOS, tvOS, and watchOS, with Task Swiftly supporting all major Apple platforms.
+- **CI/CD Tools:** Skilled in using Xcode Cloud and GitHub Actions for seamless development workflows.
 
-#### Programming Languages  
-Aside from Swift, my first programming language was Java, and I have also dabbled in Python.
+### Leadership and Mentorship
+- **Teaching:** As an iOS instructor at Kodeco, I mentor developers at all levels, focusing on building confidence and problem-solving skills.
+- **Team Collaboration:** Spearheaded cross-functional teams for projects like the Favor address screen redesign, ensuring collaboration across product, design, QA, and backend teams.
+- **Mentorship Style:** Empowering juniors by guiding hands-on sessions, fostering independence in skills like JSON model creation.
 
-#### Cross-Platform Development  
-All of my apps are cross-platform to some capacity. Task Swiftly, in particular, is designed for all major Apple platforms.
-
-#### Tools and CI/CD  
-I currently use Xcode Cloud to manage my CI/CD flows and have also worked in environments using GitHub Actions.
-
-### Leadership and Mentorship  
-
-#### Teaching & Mentorship  
-I teach iOS development at Kodeco, mentoring developers at all levels. For junior developers, I focus on building their confidence and teaching them how to research solutions effectively. For example, I guided a junior developer struggling with creating models from JSON. I had them control the session, walked through the API documentation, and taught practical tips, ultimately letting them apply their learning independently.
-
-#### Team Collaboration  
-I have spearheaded cross-functional teams, such as leading a complete redesign of the address screens in the Favor delivery app. I collaborated with product, design, QA, and backend teams to align all moving components, ensuring a seamless delivery of consistent code.
-
-#### Open Source Contributions  
-I have not yet contributed to open-source projects but am currently working on a few that I plan to release publicly.
-
-### Projects and Portfolio  
-
-#### Freelance/Client Work  
-As an indie developer, I have built my own apps from scratch, including RecipeKit, Luminae, Task Swiftly, and ChirpCast, showcasing my diverse skillset.
-
-#### Non-iOS Apps  
-I have developed apps for macOS, tvOS, and watchOS. Task Swiftly, in particular, is designed to run across all Apple platforms.
-
-#### Hackathons & Competitions  
-I have participated in several hackathons and enjoy the fast-paced, collaborative environment they offer.
-
-### Soft Skills and Problem Solving  
-
-#### Problem-Solving Examples  
-I rebuilt the credit card scanning feature in Favor. Initially, it was supposed to be a simple package swap from card.io to Stripe, but Stripe’s framework didn’t align with our design. After consulting product and design, I built the feature in-house using Apple’s Vision framework, ensuring it met design specifications.
-
-#### User-Centric Design  
-I prioritize user feedback to understand expectations and experiences, incorporating improvements where applicable while balancing feature ideas and bug fixes.
-
-#### Adaptability  
-Teaching keeps me up-to-date with evolving technologies. I watch WWDC videos, research documentation, and build one-off projects to solidify my knowledge.
-
-### Personal Branding and Outreach  
-
-#### Content Creation  
-I create app-related content and plan to release videos based on digestible chunks of code tied to app functionality.
-
-#### Community Engagement  
-While I’ve presented my capstone project, I haven’t spoken at conferences but am open to exploring this space.
-
-#### Personal Branding  
-Currently, I am working on creating a consistent personal brand and building my presence in the developer community.
-
-### Diversity and Interests  
-
-#### Hobbies/Interests  
-I am passionate about technology, cars, rangers, and dogs. These interests often influence my development style and creative process.
-
-#### Side Projects  
-My smaller projects include one-off experimental apps, which I plan to release as open-source resources showcasing new APIs and features.
-
-#### Volunteering  
-I have not volunteered at tech-related events but would love to get involved in the future.
+### Problem-Solving and Innovation
+- **Custom Feature Development:** Rebuilt Favor’s credit card scanning feature using Apple’s Vision framework to align with custom design requirements.
+- **User-Centric Design:** Prioritize user feedback and continuous iteration to balance feature development and bug fixes.
 
 ---
 
-## ☕️ Support My Work  
+## 🌱 Future Work & In Progress
 
-If you enjoy my tutorials and projects, consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/elGordoRoura/)! Your support helps keep the content flowing and fuels my next big idea. 🙌  
+### 🔧 **RouraDB** *(In Development)*
+- An educational YouTube series app, teaching SwiftUI and scalable app architecture.
+- Focus on creating reusable components and clean code practices.
 
----
-
-## 📬 Connect With Me  
-
-I’d love to hear from you! Whether you’re learning Swift, brainstorming your next app, or just want to say hi, feel free to connect:  
-- 💌 Email: [hello@christopherroura.co](mailto:hello@christopherroura.co)  
-- 🌐 Website: [https://www.christopherroura.co/](https://www.christopherroura.co/)  
-- 🐦 Twitter: [@elGordoRoura](https://twitter.com/elGordoRoura)  
+### 🚀 One-Off Experimental Projects
+- Open-source apps and utilities designed to showcase and test new APIs and features.
 
 ---
 
-### 📈 Fun Stats  
+## ☕️ Support My Work
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elGordoCJRoura&show_icons=true&theme=blue)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoCJRoura&layout=compact&theme=radical)
+If you enjoy my tutorials and projects, consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/elGordoRoura/)! Your support helps keep the content flowing and fuels my next big idea. 🙌
+
+---
+
+## 📬 Connect With Me
+
+I’d love to hear from you! Whether you’re learning Swift, brainstorming your next app, or just want to say hi, feel free to connect:
+- 💌 Email: [christopher@roura.tech](mailto:christopher@roura.tech)
+- 🌐 Website: [https://www.christopherroura.co/](https://www.christopherroura.co/)
+- 🐦 Twitter: [@elGordoRoura](https://twitter.com/elGordoRoura)
+
+---
+
+### 📈 Fun Stats
+
+#### **GitHub Stats**
+I’ve had the pleasure of working on projects across two GitHub accounts: my legacy account **elGordo-Roura** and my current business-focused account **elGordoCJRoura**. 
+
+- **elGordo-Roura:** My long-running GitHub account showcasing years of personal growth and experimentation. 
+- **elGordoCJRoura:** My professional account, representing my focused work and open-source contributions.
+
+Here’s a snapshot of my commit history and contributions:
+
+**elGordoCJRoura:**
+![Commit History Graph](https://ghchart.rshah.org/elGordoCJRoura)
+
+**elGordo-Roura:**
+![Commit History Graph](https://ghchart.rshah.org/elGordo-Roura)
+
+These graphs represent the timeline of my work—commits, pull requests, and overall activity—showing how I’ve grown as a developer.
