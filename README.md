@@ -20,8 +20,8 @@
 ## 👨‍💻 About Me  
 Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a passionate **iOS Developer**, Swift teacher, and all-around coding enthusiast who loves to simplify complex concepts into fun, engaging lessons. My goal? To empower developers of all levels to build apps with confidence.
 
-- 🔥 **Creator** of [RouraDB](https://www.youtube.com/@elGordoRoura), a YouTube series teaching SwiftUI, app architecture, and reusable components.  
-- 🎥 Sharing **Swift tutorials and tips** every week on [YouTube @elGordoRoura](https://www.youtube.com/@elGordoRoura).  
+- 🔥 **Creator** of **RouraDB**, an upcoming YouTube series teaching SwiftUI, app architecture, and reusable components. *(In the works!)*  
+- 🎥 Sharing **Swift tutorials and tips** on [YouTube @elGordoRoura](https://www.youtube.com/@elGordoRoura). *(Launching soon!)*  
 - 🛠 Building **tools and apps** that make coding in Swift easier and more enjoyable.  
 
 ---
@@ -36,14 +36,17 @@ Hey there! I’m **Christopher J. Roura**, but most people know me online as **e
 
 ## 💡 Current Projects  
 
-### 🎬 **RouraDB**  
-- A SwiftUI-based app using the TMDB API to showcase **movie and TV show details**.  
-- Features include **search, categories, saved items**, and a focus on **reusable architecture**.  
-- Teaching developers how to create scalable, clean code in a fun and approachable way.  
+### 🌟 **Luminae**  
+- A social media app inspired by TikTok, designed with SwiftUI and powered by Firebase.  
+- Features include dynamic video feeds, user profiles, and real-time analytics.  
 
-### 🍴 **Culinary Compass**  
+### 📝 **Task Swiftly**  
+- A productivity app blending reminders, notes, and task management for iOS.  
+- Optimized for SwiftUI with seamless integration into the iOS ecosystem.  
+
+### 🍴 **RecipeKit**  
 - Your guide to all things food! Recipe discovery, user-generated content, and dietary filtering with **SwiftUI** and **CloudKit**.  
-- Development Roadmap:
+- Development Roadmap:  
   - MVP: User accounts, recipe database, basic filtering.  
   - Future: Multi-language support, meal planning, and personalized recommendations.  
 
@@ -67,4 +70,4 @@ I’d love to hear from you! Whether you’re learning Swift, brainstorming your
 ### 📈 Fun Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elGordoCJRoura&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoCJRoura&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elGordoCJRoura&layout=compact&theme=radical)
