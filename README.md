@@ -18,9 +18,22 @@
 ---
 
 ## 👨‍💻 About Me
-Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a self-taught, passionate developer who thrives on creating and teaching. My coding journey started back in 2018 at the Apple Developer Academy in Naples, Italy, where I fell in love with building apps that make a difference. 
+
+Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a self-taught, passionate developer who thrives on creating and teaching. My coding journey started back in 2018 at the Apple Developer Academy in Naples, Italy, where I fell in love with building apps that make a difference.
 
 Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, and even instructor. When I’m not working on my apps or teaching the next generation of developers, I’m geeking out over cars, hanging out with my dog Nicky, or diving into some good tech podcasts. I love staying curious and sharing what I learn with others.
+
+---
+
+## 📜 Certifications
+
+- **Apple Developer Academy**
+  *iOS Developer Enterprise Track*  
+  A rigorous program focused on enterprise app development and cutting-edge Apple technologies.
+
+- **Kodeco**  
+  *iOS SwiftUI Certification*  
+  Comprehensive mastery of SwiftUI development and best practices.
 
 ---
 
@@ -36,9 +49,9 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ### 🍴 **RecipeKit**
 - A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.
-- Development Roadmap:
-  - MVP: Recipe database, user accounts, and basic filtering.
-  - Future: Multi-language support, meal planning, and personalized recommendations.
+- **Development Roadmap:**
+  - **MVP:** Recipe database, user accounts, and basic filtering.
+  - **Future:** Multi-language support, meal planning, and personalized recommendations.
 
 ### 🎙 **ChirpCast**
 - A podcast discovery app leveraging modern APIs and intuitive interfaces.
@@ -49,9 +62,9 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 ## 📜 My Versatility & Experiences
 
 ### Professional Experience
-- **Favor Delivery (2021–2023):** Spearheaded key projects like the address screen redesign and rebuilt the credit card scanning feature with Apple’s Vision framework.
-- **Roura and Melamed (2011–Present):** Facilitated IT support and at-home work solutions.
-- **Veterinary Emergency Group:** Provided IT support to ensure seamless technological operations.
+- **Favor Delivery (Nov 2021 – Aug 2023):** Spearheaded key projects like the address screen redesign and rebuilt the credit card scanning feature with Apple’s Vision framework.
+- **Roura and Melamed (May 2011 – Present):** Facilitated IT support and at-home work solutions.
+- **Veterinary Emergency Group (Jul 2021 - Nov 2021):** Provided IT support to ensure seamless technological operations.
 - **Apple Developer Academy Enterprise Track (2018–2019):** Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
 - **Kodeco Instructor (2023–Present):** Taught iOS twice, VisionOS, and slated to lead additional iOS and Apple Intelligence bootcamps.
 
@@ -92,6 +105,7 @@ If you enjoy my tutorials and projects, consider supporting me on [BuyMeACoffee]
 ## 📬 Connect With Me
 
 I’d love to hear from you! Whether you’re learning Swift, brainstorming your next app, or just want to say hi, feel free to connect:
+
 - 💌 Email: [christopher@roura.tech](mailto:christopher@roura.tech)
 - 🌐 Website: [https://www.christopherroura.co/](https://www.christopherroura.co/)
 - 🐦 Twitter: [@elGordoRoura](https://twitter.com/elGordoRoura)
