@@ -1,19 +1,11 @@
 # Welcome to elGordoRoura's Corner! 👋
 
-<p align="center">
-  <a href="https://www.youtube.com/@elGordoRoura">
-    <img src="https://img.shields.io/badge/YouTube-elGordoRoura-blue?logo=youtube&logoColor=white&style=vertical-align: middle;" alt="YouTube">
-  </a>
-  <a href="https://www.linkedin.com/in/cjroura/">
-    <img src="https://img.shields.io/badge/LinkedIn-cjroura-blue?logo=linkedin&logoColor=white&style=vertical-align: middle;" alt="LinkedIn">
-  </a>
-  <a href="https://www.christopherroura.co/">
-    <img src="https://img.shields.io/badge/Website-Christopher%20Roura-blue?logo=google-chrome&logoColor=white&style=vertical-align: middle;" alt="Website">
-  </a>
-  <a href="https://www.buymeacoffee.com/elGordoRoura/">
-    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-blue?logo=buy-me-a-coffee&logoColor=white&style=vertical-align: middle;" alt="BuyMeACoffee">
-  </a>
-</p>
+![Swift Version](https://img.shields.io/badge/Swift-6-orange)
+![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
+[![YouTube](https://img.shields.io/badge/YouTube-elGordoRoura-red?logo=youtube&logoColor=white)](https://www.youtube.com/@elGordoRoura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cjroura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjroura/)
+[![Website](https://img.shields.io/badge/Website-Christopher%20Roura-brightgreen?logo=google-chrome&logoColor=white)](https://www.christopherroura.co/)
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/elGordoRoura/)
 
 ---
 
@@ -25,9 +17,33 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ---
 
+## 📜 Work Experience
+
+### **Favor Delivery (Nov 2021 – Aug 2023)**  
+As a key contributor to the Favor team, I worked on impactful projects that improved user experience, enhanced security, and streamlined feature deployment. My responsibilities included the following:
+
+- **Rebuilt the Credit Card Scanning Interface:** Transitioned from Card.io to Stripe for improved payment control and security, while developing a custom interface using VisionKit to meet unique design requirements. This enabled a seamless user experience while leveraging Stripe for payment processing and authorization.
+- **Integrated Forter SDK:** Implemented this third-party security client to safeguard the platform against bad actors and prevent misuse by users or drivers. This enhanced the app's reliability and trustworthiness.
+- **LaunchDarkly Integration:** Designed and implemented the architecture for LaunchDarkly, a feature flag management tool, to facilitate controlled feature rollouts. This ensured a smoother user experience and reduced risks associated with new deployments.
+- **Redesigned Address Screen Workflow:** Led the cross-team effort to restructure the address screen flow as part of a larger overhaul initiative. Collaborated with design, backend, and product teams to iteratively update the interface, paving the way for future map integration while maintaining current functionality.
+
+### **Roura and Melamed (May 2011 – Present)**  
+Facilitated IT support and at-home work solutions.
+
+### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
+Provided IT support to ensure seamless technological operations.
+
+### **Apple Developer Academy Enterprise Track (2018–2019)**  
+Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
+
+### **Kodeco Instructor (2023–Present)**  
+Taught iOS twice, VisionOS, and slated to lead additional iOS and Apple Intelligence bootcamps.
+
+---
+
 ## 📜 Certifications
 
-- **Apple Developer Academy**
+- **Apple Developer Academy**  
   *iOS Developer Enterprise Track*  
   A rigorous program focused on enterprise app development and cutting-edge Apple technologies.
 
@@ -61,13 +77,6 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## 📜 My Versatility & Experiences
 
-### Professional Experience
-- **Favor Delivery (Nov 2021 – Aug 2023):** Spearheaded key projects like the address screen redesign and rebuilt the credit card scanning feature with Apple’s Vision framework.
-- **Roura and Melamed (May 2011 – Present):** Facilitated IT support and at-home work solutions.
-- **Veterinary Emergency Group (Jul 2021 - Nov 2021):** Provided IT support to ensure seamless technological operations.
-- **Apple Developer Academy Enterprise Track (2018–2019):** Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
-- **Kodeco Instructor (2023–Present):** Taught iOS twice, VisionOS, and slated to lead additional iOS and Apple Intelligence bootcamps.
-
 ### Technical Skills and Experience
 - **UIKit and Legacy Work:** Extensive experience with UIKit, starting in 2018, with expertise in traditional MVC patterns and transitioning to modern frameworks like SwiftUI.
 - **Programming Languages:** Proficient in Swift, with foundational knowledge of Java and Python.
@@ -87,11 +96,11 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## 🌱 Future Work & In Progress
 
-### 🔧 **RouraDB** *(In Development)*
+### 🔧 **RouraDB** *(In Development)*  
 - An educational YouTube series app, teaching SwiftUI and scalable app architecture.
 - Focus on creating reusable components and clean code practices.
 
-### 🚀 One-Off Experimental Projects
+### 🚀 One-Off Experimental Projects  
 - Open-source apps and utilities designed to showcase and test new APIs and features.
 
 ---
