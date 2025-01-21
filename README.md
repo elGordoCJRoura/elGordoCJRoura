@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a self-taught, passionate developer who thrives on creating and teaching. My coding journey started back in 2018 at the Apple Developer Academy in Naples, Italy, where I fell in love with building apps that make a difference.
+Hey there! I’m **Christopher J. Roura**, but most people know me online as **elGordoRoura**. I’m a passionate developer who thrives on creating and teaching. My coding journey started back in 2018 at the Apple Developer Academy in Naples, Italy, where I fell in love with building apps that make a difference.
 
 Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, and even instructor. When I’m not working on my apps or teaching the next generation of developers, I’m geeking out over cars, hanging out with my dog Nicky, or diving into some good tech podcasts. I love staying curious and sharing what I learn with others.
 
@@ -59,14 +59,14 @@ As a key contributor to the Favor team, I worked on impactful projects that impr
 ### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
 Provided IT support to ensure seamless technological operations.
 
-### **Apple Developer Academy Enterprise Track (2018–2019)**  
-Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
+### **Apple Technical Specialist (Jul 2015 - Aug 2016)**  
+Worked at the iconic Cube on Fifth Avenue in New York City, providing technical support and ensuring customer satisfaction.
 
 <details>
   <summary><strong>Learn more</strong></summary>
 
-  - This program emphasized hands-on projects, team collaboration, and innovation using Apple's latest tools and frameworks.
-
+  - **:** Delivered hands-on technical solutions and support for Apple products.
+  - **:** Trained customers on using Apple’s ecosystem efficiently.
 </details>
 
 ---
