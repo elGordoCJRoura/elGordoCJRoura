@@ -59,14 +59,22 @@ As a key contributor to the Favor team, I worked on impactful projects that impr
 ### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
 Provided IT support to ensure seamless technological operations.
 
+<details>
+  <summary><strong>Learn more</strong></summary>
+  
+  - **System Optimization:** Implemented IT solutions to streamline clinic operations and improve efficiency.
+  - **Technical Support:** Delivered prompt and reliable support for hardware, software, and network issues.
+  - **Security Improvements:** Assisted in enhancing data protection measures and maintaining compliance with veterinary industry standards.
+</details>
+
 ### **Apple Technical Specialist (Jul 2015 - Aug 2016)**  
 Worked at the iconic Cube on Fifth Avenue in New York City, providing technical support and ensuring customer satisfaction.
 
 <details>
   <summary><strong>Learn more</strong></summary>
 
-  - **:** Delivered hands-on technical solutions and support for Apple products.
-  - **:** Trained customers on using Apple’s ecosystem efficiently.
+  - **Technical Expertise:** Provided comprehensive technical solutions and exceptional support for Apple products, ensuring seamless customer experiences.
+  - **Customer Training:** Trained customers on using Apple’s ecosystem efficiently.
 </details>
 
 ---
