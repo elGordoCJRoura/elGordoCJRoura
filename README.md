@@ -25,9 +25,11 @@ As an instructor at Kodeco, I have had the opportunity to teach and mentor stude
 
 <details>
   <summary><small>Learn more</small></summary>
-  **• Led Two iOS Bootcamps:** Taught foundational and advanced iOS development, covering SwiftUI, protocol-oriented programming, generics, and clean, scalable architectures.  
-  **• Taught VisionOS Bootcamp:** Introduced students to Apple's spatial computing framework, enabling them to build immersive applications for Vision Pro.  
-  **• Scheduled to Lead Additional Bootcamps:** Preparing to lead future bootcamps focused on iOS development and Apple Intelligence (Apple's version of artificial intelligence).
+
+  - **Led Two iOS Bootcamps:** Taught foundational and advanced iOS development, covering SwiftUI, protocol-oriented programming, generics, and clean, scalable architectures.  
+  - **Taught VisionOS Bootcamp:** Introduced students to Apple's spatial computing framework, enabling them to build immersive applications for Vision Pro.  
+  - **Scheduled to Lead Additional Bootcamps:** Preparing to lead future bootcamps focused on iOS development and Apple Intelligence (Apple's version of artificial intelligence).  
+
 </details>
 
 ### **Roura and Melamed (May 2011 – Present)**  
