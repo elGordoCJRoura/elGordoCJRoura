@@ -20,8 +20,6 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## 📜 Work Experience
 
-## 📜 Work Experience
-
 ### **Kodeco Instructor (2023–Present)** 
 As an instructor at Kodeco, I have had the opportunity to teach and mentor students in iOS development and related technologies. My responsibilities include the following:
 <details>
