@@ -1,3 +1,4 @@
+
 ## iOS Software Engineer | IT Support Analyst
 # Christopher J. Roura
 
@@ -20,8 +21,8 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## Work Experience
 
-### **Kodeco Instructor (2023–Present)** 
-As an instructor at Kodeco, I have had the opportunity to teach and mentor students in iOS development and related technologies. My responsibilities include the following:
+### **Kodeco Instructor (2023–Present)**  
+As an instructor at Kodeco, I have had the opportunity to teach and mentor students in iOS development and related technologies.
 
 <details>
   <summary><strong>Learn more</strong></summary>
@@ -33,33 +34,39 @@ As an instructor at Kodeco, I have had the opportunity to teach and mentor stude
 </details>
 
 ### **Roura and Melamed (May 2011 – Present)**  
-Facilitated IT support and at-home work solutions.  
+Facilitated IT support and at-home work solutions.
 
 <details>
   <summary><strong>Learn more</strong></summary>
-  - Responsibilities ranged from setting up secure networks to assisting clients in transitioning to remote work environments seamlessly.
+
+  - **Customized IT Solutions:** Responsibilities ranged from setting up secure networks to assisting clients in transitioning to remote work environments seamlessly.
+
 </details>
 
 ### **Favor Delivery (Nov 2021 – Aug 2023)**  
-As a key contributor to the Favor team, I worked on impactful projects that improved user experience, enhanced security, and streamlined feature deployment. My responsibilities included the following:
+As a key contributor to the Favor team, I worked on impactful projects that improved user experience, enhanced security, and streamlined feature deployment.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - **Rebuilt the Credit Card Scanning Interface:** Transitioned from Card.io to Stripe for improved payment control and security, while developing a custom interface using VisionKit to meet unique design requirements.  
   - **Integrated Forter SDK:** Implemented this third-party security client to safeguard the platform against bad actors and prevent misuse by users or drivers.  
   - **LaunchDarkly Integration:** Designed and implemented the architecture for LaunchDarkly, a feature flag management tool, to facilitate controlled feature rollouts.  
   - **Redesigned Address Screen Workflow:** Led the cross-team effort to restructure the address screen flow as part of a larger overhaul initiative.
+
 </details>
 
 ### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
 Provided IT support to ensure seamless technological operations.
 
 ### **Apple Developer Academy Enterprise Track (2018–2019)**  
-Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.  
+Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - This program emphasized hands-on projects, team collaboration, and innovation using Apple's latest tools and frameworks.
+
 </details>
 
 ---
@@ -78,38 +85,46 @@ Completed a rigorous program in Naples, Italy, focusing on enterprise developmen
 
 ## 🚀 Highlighted Projects
 
-### **Luminae**
-A social media app inspired by X (Twitter), designed with SwiftUI and powered by Firebase.  
+### **Luminae**  
+A social media app inspired by X (Twitter), designed with SwiftUI and powered by Firebase.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - Features include dynamic feeds, user profiles, and real-time analytics.
+
 </details>
 
-### **Task Swiftly**
-A productivity app blending reminders, notes, and task management for iOS.  
+### **Task Swiftly**  
+A productivity app blending reminders, notes, and task management for iOS.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - Optimized for SwiftUI with seamless integration into the iOS ecosystem.
+
 </details>
 
-### **RecipeKit**
-A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.  
+### **RecipeKit**  
+A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - **Development Roadmap:**
     - **MVP:** Recipe database, user accounts, and basic filtering.  
     - **Future:** Multi-language support, meal planning, and personalized recommendations.
+
 </details>
 
-### **ChirpCast**
-A podcast discovery app leveraging modern APIs and intuitive interfaces.  
+### **ChirpCast**  
+A podcast discovery app leveraging modern APIs and intuitive interfaces.
 
 <details>
   <summary><strong>Learn more</strong></summary>
+
   - Highlights user-friendly search, curated lists, and a cross-platform experience.
+
 </details>
 
 ---
@@ -117,6 +132,7 @@ A podcast discovery app leveraging modern APIs and intuitive interfaces.
 ## My Versatility & Experiences
 
 ### Technical Skills and Experience
+
 - **UIKit and Legacy Work:** Extensive experience with UIKit, starting in 2018, with expertise in traditional MVC patterns and transitioning to modern frameworks like SwiftUI.  
 - **Programming Languages:** Proficient in Swift, with foundational knowledge of Java and Python.  
 - **Cross-Platform Development:** Developing apps for macOS, tvOS, and watchOS, with Task Swiftly supporting all major Apple platforms.  
@@ -154,6 +170,7 @@ I’d love to hear from you! Whether you’re learning Swift, brainstorming your
 ### Fun Stats
 
 #### **GitHub Stats**
+
 I’ve had the pleasure of working on projects across two GitHub accounts: my legacy account **cjroura** and my current business-focused account **elGordoCJRoura**. 
 
 Here’s a snapshot of my commit history and contributions:
