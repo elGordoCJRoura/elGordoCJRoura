@@ -20,10 +20,12 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## 📜 Work Experience
 
+## 📜 Work Experience
+
 ### **Kodeco Instructor (2023–Present)** 
 As an instructor at Kodeco, I have had the opportunity to teach and mentor students in iOS development and related technologies. My responsibilities include the following:
 <details>
-  <summary>Learn more</summary>
+  <summary><small>Learn more</small></summary>
 
   - **Led Two iOS Bootcamps:** Taught foundational and advanced iOS development, covering SwiftUI, protocol-oriented programming, generics, and clean, scalable architectures.  
   - **Taught VisionOS Bootcamp:** Introduced students to Apple's spatial computing framework, enabling them to build immersive applications for Vision Pro.  
@@ -32,21 +34,35 @@ As an instructor at Kodeco, I have had the opportunity to teach and mentor stude
 </details>
 
 ### **Roura and Melamed (May 2011 – Present)**  
-Facilitated IT support and at-home work solutions.
+Facilitated IT support and at-home work solutions.  
+<details>
+  <summary><small>Learn more</small></summary>
+  Responsibilities ranged from setting up secure networks to assisting clients in transitioning to remote work environments seamlessly.
+</details>
 
 ### **Favor Delivery (Nov 2021 – Aug 2023)**  
 As a key contributor to the Favor team, I worked on impactful projects that improved user experience, enhanced security, and streamlined feature deployment. My responsibilities included the following:
+<details>
+  <summary><small>Learn more</small></summary>
 
 - **Rebuilt the Credit Card Scanning Interface:** Transitioned from Card.io to Stripe for improved payment control and security, while developing a custom interface using VisionKit to meet unique design requirements. This enabled a seamless user experience while leveraging Stripe for payment processing and authorization.
 - **Integrated Forter SDK:** Implemented this third-party security client to safeguard the platform against bad actors and prevent misuse by users or drivers. This enhanced the app's reliability and trustworthiness.
 - **LaunchDarkly Integration:** Designed and implemented the architecture for LaunchDarkly, a feature flag management tool, to facilitate controlled feature rollouts. This ensured a smoother user experience and reduced risks associated with new deployments.
 - **Redesigned Address Screen Workflow:** Led the cross-team effort to restructure the address screen flow as part of a larger overhaul initiative. Collaborated with design, backend, and product teams to iteratively update the interface, paving the way for future map integration while maintaining current functionality.
 
+</details>
+
 ### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
 Provided IT support to ensure seamless technological operations.
 
 ### **Apple Developer Academy Enterprise Track (2018–2019)**  
-Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
+Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.  
+<details>
+  <summary><small>Learn more</small></summary>
+
+This program emphasized hands-on projects, team collaboration, and innovation using Apple's latest tools and frameworks.
+
+</details>
 
 ---
 
@@ -65,22 +81,36 @@ Completed a rigorous program in Naples, Italy, focusing on enterprise developmen
 ## 🚀 Highlighted Projects
 
 ### 🌟 **Luminae**
-- A social media app inspired by X (Twitter), designed with SwiftUI and powered by Firebase.
-- Features include dynamic feeds, user profiles, and real-time analytics.
+A social media app inspired by X (Twitter), designed with SwiftUI and powered by Firebase.  
+<details>
+  <summary><small>Learn more</small></summary>
+  Features include dynamic feeds, user profiles, and real-time analytics.
+</details>
 
 ### 📝 **Task Swiftly**
-- A productivity app blending reminders, notes, and task management for iOS.
-- Optimized for SwiftUI with seamless integration into the iOS ecosystem.
+A productivity app blending reminders, notes, and task management for iOS.  
+<details>
+  <summary><small>Learn more</small></summary>
+  Optimized for SwiftUI with seamless integration into the iOS ecosystem.
+</details>
 
 ### 🍴 **RecipeKit**
-- A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.
+A SwiftUI-powered recipe app featuring discovery, user-generated content, and dietary filtering.  
+<details>
+  <summary><small>Learn more</small></summary>
+
 - **Development Roadmap:**
   - **MVP:** Recipe database, user accounts, and basic filtering.
   - **Future:** Multi-language support, meal planning, and personalized recommendations.
 
+</details>
+
 ### 🎙 **ChirpCast**
-- A podcast discovery app leveraging modern APIs and intuitive interfaces.
-- Highlights user-friendly search, curated lists, and a cross-platform experience.
+A podcast discovery app leveraging modern APIs and intuitive interfaces.  
+<details>
+  <summary><small>Learn more</small></summary>
+  Highlights user-friendly search, curated lists, and a cross-platform experience.
+</details>
 
 ---
 
