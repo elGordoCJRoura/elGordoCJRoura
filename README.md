@@ -1,4 +1,5 @@
-# Welcome to elGordoRoura's Corner! 👋
+## iOS Software Engineer | IT Support Analyst
+# Christopher J. Roura
 
 ![Swift Version](https://img.shields.io/badge/Swift-6-orange)
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
@@ -19,6 +20,15 @@ Over the years, I’ve worn a lot of hats—iOS developer, IT support, mentor, a
 
 ## 📜 Work Experience
 
+### **Kodeco Instructor (2023–Present)**  
+As an instructor at Kodeco, I have had the opportunity to teach and mentor students in iOS development and related technologies. My responsibilities include the following:
+- **Led Two iOS Bootcamps:** Taught foundational and advanced iOS development, covering SwiftUI, protocol-oriented programming, generics, and clean, scalable architectures.  
+- **Taught VisionOS Bootcamp:** Introduced students to Apple's spatial computing framework, enabling them to build immersive applications for Vision Pro.  
+- **Scheduled to Lead Additional Bootcamps:** Preparing to lead future bootcamps focused on iOS development and Apple Intelligence (Apple's version of artificial intelligence).  
+
+### **Roura and Melamed (May 2011 – Present)**  
+Facilitated IT support and at-home work solutions.
+
 ### **Favor Delivery (Nov 2021 – Aug 2023)**  
 As a key contributor to the Favor team, I worked on impactful projects that improved user experience, enhanced security, and streamlined feature deployment. My responsibilities included the following:
 
@@ -27,17 +37,11 @@ As a key contributor to the Favor team, I worked on impactful projects that impr
 - **LaunchDarkly Integration:** Designed and implemented the architecture for LaunchDarkly, a feature flag management tool, to facilitate controlled feature rollouts. This ensured a smoother user experience and reduced risks associated with new deployments.
 - **Redesigned Address Screen Workflow:** Led the cross-team effort to restructure the address screen flow as part of a larger overhaul initiative. Collaborated with design, backend, and product teams to iteratively update the interface, paving the way for future map integration while maintaining current functionality.
 
-### **Roura and Melamed (May 2011 – Present)**  
-Facilitated IT support and at-home work solutions.
-
 ### **Veterinary Emergency Group (Jul 2021 - Nov 2021)**  
 Provided IT support to ensure seamless technological operations.
 
 ### **Apple Developer Academy Enterprise Track (2018–2019)**  
 Completed a rigorous program in Naples, Italy, focusing on enterprise development and cutting-edge Apple technologies.
-
-### **Kodeco Instructor (2023–Present)**  
-Taught iOS twice, VisionOS, and slated to lead additional iOS and Apple Intelligence bootcamps.
 
 ---
 
